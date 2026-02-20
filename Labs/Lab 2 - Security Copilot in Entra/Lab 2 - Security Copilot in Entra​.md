@@ -69,16 +69,16 @@ In this task, we will Enable Security Copilot.
 
 6.  Provide the below details on the Set up your security capacity page.
 
-    1.  Azure Subscription – scroll down and choose the available
+    * Azure Subscription – scroll down and choose the available
         subscription
 
-> \[**Note** - to enable the Security Copilot, you should have
-> Contributor or Owner role on the Subscription \]
+        > \[**Note** - to enable the Security Copilot, you should have
+        > Contributor or Owner role on the Subscription \]
 
-2.  Resource group – Create new and provide the name as
-    **RG4SecurityCopilot**
+    * Resource group – Create new and provide the name as
+        **RG4SecurityCopilot**
 
-3.  Prompt evaluation location – select **United States**
+    * Prompt evaluation location – select **United States**
 
 > ![](./media/image4.png)
 
