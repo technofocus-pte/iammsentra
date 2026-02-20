@@ -45,7 +45,7 @@ In this task, we will Enable Security Copilot.
 1.  From the LabVM desktop, double-click Microsoft Edge to launch the
     browser.
 
-> ![](./media/image1.png)
+     ![](./media/image1.png)
 
 2.  Copy and paste the following link into your browser to access the
     Microsoft Security Copilot portal.
@@ -57,7 +57,7 @@ In this task, we will Enable Security Copilot.
 
 4.  Click on **Get started** button
 
-![](./media/image2.png)
+     ![](./media/image2.png)
 
 5.  Provide the below details and then click on **Continue** button
 
@@ -65,7 +65,7 @@ In this task, we will Enable Security Copilot.
 
     2.  Data storage location – **United States**
 
-![](./media/image3.png)
+     ![](./media/image3.png)
 
 6.  Provide the below details on the Set up your security capacity page.
 
@@ -80,7 +80,7 @@ In this task, we will Enable Security Copilot.
 
     * Prompt evaluation location – select **United States**
 
-> ![](./media/image4.png)
+     ![](./media/image4.png)
 
 7.  Scroll down to the **Select the number of units** section
 
@@ -89,147 +89,147 @@ In this task, we will Enable Security Copilot.
 
 9.  Click on the **Continue** button.
 
-![](./media/image5.png)
+     ![](./media/image5.png)
 
 10. On the **Help improve Copilot** page, click on the **Continue**
     button.  
-    ![](./media/image6.png)
+         ![](./media/image6.png)
 
 11. On the **Copilot’s access and storage of Microsoft 365 service
     data** page, click on **Continue** button.
 
-![](./media/image7.png)
+     ![](./media/image7.png)
 
 12. On the **Logging audit data in Microsoft Purview** page, click on
     the **Skip** button.
 
-![](./media/image8.png)
+     ![](./media/image8.png)
 
 13. On the Assign roles page, click on the radio button for **No one.
     Add them later** and then click on the **Continue** button.
 
-![](./media/image9.png)
+     ![](./media/image9.png)
 
 14. On the **You’re all set** page, click on the **Finish** button.
 
-![](./media/image10.png)
+     ![](./media/image10.png)
 
 15. **Microsoft Security Copilot** is all Set up.  
-    ![](./media/image11.png)
+         ![](./media/image11.png)
 
 16. Click on **Agents** from the left menu.
 
-![](./media/image12.png)
+     ![](./media/image12.png)
 
 17. Click on the **Next** button on the message for **Agents work on
     your behalf**
 
-![](./media/image13.png)
+     ![](./media/image13.png)
 
 18. Click on the **View agents** button on the message for **Check the
     Agent’s work**
 
-![](./media/image14.png)
+     ![](./media/image14.png)
 
 19. We should be able to see the Agents
 
-![](./media/image15.png)
+     ![](./media/image15.png)
 
 20. From the Agents list click on the **Set up** button for
     **Conditional Access Optimization Agent**
 
-![](./media/image16.png)
+     ![](./media/image16.png)
 
 21. Click on the **Set up in Entra** button.
 
-![](./media/image17.png)
+     ![](./media/image17.png)
 
 22. If prompted, click on the **Next** button on the message for
     **Agents work on your behalf**
 
-![](./media/image18.png)
+     ![](./media/image18.png)
 
 23. If prompted, click on the **View agents** button on the message for
     **Check the Agent’s work**
 
-> ![](./media/image19.png)
+     ![](./media/image19.png)
 
 24. In the Microsoft Entra admin center, we should be able to see 3
     Agents listed under **Security Copilot agents**.
 
-> ![](./media/image20.png)
+     ![](./media/image20.png)
 
 # Task 2 — Enable Entra Agent \#1: Conditional Access Optimization Agent
 
 1.  In the Microsoft Entra Admin Center click on the **View details**
     button of the **Conditional Access Optimization Agent**.
 
-> ![](./media/image21.png)
+     ![](./media/image21.png)
 
 2.  Click on **Start agent**
 
-![](./media/image22.png)
+     ![](./media/image22.png)
 
 3.  The agent will initiate
 
-![](./media/image23.png)
+     ![](./media/image23.png)
 
 Note - wait for the agent to initialize, this process takes about 1-2
 minutes.
 
-![](./media/image24.png)
+     ![](./media/image24.png)
 
 4.  Review the Agent summary
 
-![](./media/image25.png)
+     ![](./media/image25.png)
 
 5.  Click on the **Suggestions** tab and review the suggestions.
 
-![](./media/image26.png)
+     ![](./media/image26.png)
 
 6.  Click on the **Settings** tab and review the available options, then
     click on **Users** to see Roles which can manage this agent.  
-    ![](./media/image27.png)
+         ![](./media/image27.png)
 
 7.  While in the **Conditional Access Optimization Agent** blade, click
     on the X to return to the Entra Agents page.
 
-> ![](./media/image28.png)
+     ![](./media/image28.png)
 
 8.  Notice that the **Conditional Access Optimization Agent** is showing
     as **Active**.
 
-![](./media/image29.png)
+     ![](./media/image29.png)
 
 # Task 3 — Enable Entra Agent \#2: Identity Risk Management Agent
 
 1.  Now click on **View details** button for the **Identity Risk
     Management Agent**.
 
-![](./media/image30.png)
+     ![](./media/image30.png)
 
 2.  Click on the **Start agent** button.
 
-![](./media/image31.png)
+     ![](./media/image31.png)
 
 3.  Wait for the agent to initialize, it will take 1-2 minutes
 
-![](./media/image32.png)
+     ![](./media/image32.png)
 
 4.  Once the agent is ready, click on the **View agent findings**
     button.
 
-![](./media/image33.png)
+     ![](./media/image33.png)
 
 5.  As this is a Test environment, we do not have any **Risky user**
     listed.
 
-![](./media/image34.png)
+     ![](./media/image34.png)
 
 6.  Click on **Agent view** button and review the additional options
     available to **Chat with agent** and **Manage agent.**
 
-![](./media/image35.png)
+     ![](./media/image35.png)
 
 7.  Close the **Risky users** page to return back to agent page and then
     select the **Settings** tab.
@@ -237,12 +237,12 @@ minutes.
 8.  On the **Control** sub menu, we have various triggers available to
     configure.
 
-![](./media/image36.png)
+     ![](./media/image36.png)
 
 9.  Close the agent page and return to the Entra agents page. Now the
     **Identity Risk Management Agent** status should be **Active**.
 
-![](./media/image37.png)
+     ![](./media/image37.png)
 
 # Task 4 — Enable Entra Agent \#3: Access Review Agent
 
@@ -251,15 +251,15 @@ which we need to configure before we enable Access Review Agent.
 
 1.  Click on **Users** under the Entra ID menu.
 
-![](./media/image38.png)
+     ![](./media/image38.png)
 
 2.  Select the user account **ODL_User XXXXXX**
 
-![](./media/image39.png)
+     ![](./media/image39.png)
 
 3.  Click on **Add assignments** button.
 
-![](./media/image40.png)
+     ![](./media/image40.png)
 
 4.  From the Directory roles, select the below two roles and then click
     on **Add** button.
@@ -268,64 +268,64 @@ which we need to configure before we enable Access Review Agent.
 
     2.  Lifecycle Workflows Administrator
 
-> ![](./media/image41.png)
+     ![](./media/image41.png)
 
 5.  The Assigned roles should now show 3 roles.
 
-![](./media/image42.png)
+     ![](./media/image42.png)
 
 6.  Open a new tab and navigate to
     <https://securitycopilot.microsoft.com/role-assignment>
 
 7.  Click on **+ Add members**
 
-![](./media/image43.png)
+     ![](./media/image43.png)
 
 8.  In the text box **ODL_user** and select your user account, then
     click on **Add** button.
 
-![](./media/image44.png)
+     ![](./media/image44.png)
 
-![](./media/image45.png)
+     ![](./media/image45.png)
 
 9.  Switch back to the **Microsoft Entra admin center**.
 
 10. Expand **ID Governance** and select **Access review**, create a
     **Test Review 1** as shown in the image  
-    ![](./media/image46.png)
+         ![](./media/image46.png)
 
-![](./media/image47.png)
+     ![](./media/image47.png)
 
 11. From the left menu click on **Entra agents**
 
-![](./media/image48.png)
+     ![](./media/image48.png)
 
 12. Click on **View details** button of the **Access Review Agent**
 
-> ![](./media/image49.png)
+     ![](./media/image49.png)
 
 13. Click on **Start agent** button.
 
-![](./media/image50.png)
+     ![](./media/image50.png)
 
 14. Wait for the agent to initialize
 
-![](./media/image51.png)
+     ![](./media/image51.png)
 
 15. Click on **Analyze reviews** button
 
-![](./media/image52.png)
+     ![](./media/image52.png)
 
 16. Click on the **Settings** tab and review the available options.
 
-![](./media/image53.png)
+     ![](./media/image53.png)
 
 17. Close the **Access Review Agent** page to return to the Entra agents
     page.
 
 18. We have successfully enabled all 3 Security Copilot agents in Entra.
 
-![](./media/image54.png)
+     ![](./media/image54.png)
 
 19. Switch back to the Microsoft Security Copilot page -
     <https://securitycopilot.microsoft.com/>
@@ -333,7 +333,7 @@ which we need to configure before we enable Access Review Agent.
 20. Click on **Agents**, under **Agents in use**, we should be able to
     see all the agents enabled in **Microsoft Entra admin center**.
 
-![](./media/image55.png)
+     ![](./media/image55.png)
 
 # Summary
 
