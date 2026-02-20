@@ -50,7 +50,7 @@ In this task, we will Enable Security Copilot.
 2.  Copy and paste the following link into your browser to access the
     Microsoft Security Copilot portal.
 
-> https://securitycopilot.microsoft.com/
+     > `https://securitycopilot.microsoft.com/`
 
 3.  If prompted to sign in, use the credentials from the **Environment**
     tab.
@@ -275,7 +275,7 @@ which we need to configure before we enable Access Review Agent.
      ![](./media/image42.png)
 
 6.  Open a new tab and navigate to
-    <https://securitycopilot.microsoft.com/role-assignment>
+    > `https://securitycopilot.microsoft.com/role-assignment`
 
 7.  Click on **+ Add members**
 
@@ -328,7 +328,7 @@ which we need to configure before we enable Access Review Agent.
      ![](./media/image54.png)
 
 19. Switch back to the Microsoft Security Copilot page -
-    <https://securitycopilot.microsoft.com/>
+    > `https://securitycopilot.microsoft.com/`
 
 20. Click on **Agents**, under **Agents in use**, we should be able to
     see all the agents enabled in **Microsoft Entra admin center**.
