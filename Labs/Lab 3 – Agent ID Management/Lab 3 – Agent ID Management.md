@@ -60,23 +60,23 @@ automatically generate its corresponding Agent ID in Entra ID.
 2.  Sign in using your lab credentials from the Environment tab.
 
 3.  Click on **Start free** trial  
-![](./media/image1.png)
+    ![](./media/image1.png)
 
 4.  Click on **Got it!** Button
 
-![](./media/image2.png)
+    ![](./media/image2.png)
 
 5.  Click on **Got it** button
 
-![](./media/image3.png)
+    ![](./media/image3.png)
 
 6.  Click on **Agents**
 
-![](./media/image4.png)
+    ![](./media/image4.png)
 
 7.  Click on **New agent**
 
-![](./media/image5.png)
+    ![](./media/image5.png)
 
 8.  Copy and paste the below text to create an agent, then click on the
     right arrow
@@ -95,29 +95,29 @@ automatically generate its corresponding Agent ID in Entra ID.
     >
     > ***Suggest Zero Trust identity controls***
     >
-![](./media/image6.png)
+    ![](./media/image6.png)
 
 9.  Click on the **Create** button.
 
-![](./media/image7.png)
+    ![](./media/image7.png)
 
-![](./media/image8.png)
+    ![](./media/image8.png)
 
 10. Click on the **Skip** button
 
-11. ![](./media/image9.png)
+    ![](./media/image9.png)
 
 12. Click on the newly created Agent  
-![](./media/image10.png)
+    ![](./media/image10.png)
 
 13. Click on the **Edit** button.
 
-![](./media/image11.png)
+    ![](./media/image11.png)
 
 14. Provide the name as **Entra ID Security Posture Analyzer** and then
     click on save button.
 
-![](./media/image12.png)
+    ![](./media/image12.png)
 
 15. In the Test you Agent text box paste the below query and click on
     the right arrow
@@ -126,12 +126,12 @@ automatically generate its corresponding Agent ID in Entra ID.
     > have no FIDO2 keys deployed`.
 
 
-![](./media/image13.png)
+    ![](./media/image13.png)
 
 16. As the agent is functional, we have successfully created an Agent
     from Copilot Studio.
 
-![](./media/image14.png)
+    ![](./media/image14.png)
 
 # Task 2 - Create & Register an Agent ID in Azure AI Foundry
 
@@ -142,11 +142,11 @@ secure identity bindings.
 
 2.  Click on **Sign in to get started.**
 
-![](./media/image15.png)
+    ![](./media/image15.png)
 
 3.  Click on **Create an agent**
 
-![](./media/image16.png)
+    ![](./media/image16.png)
 
 4.  Click on **Advanced Options**, then provide the below details and
     click on **Create**
@@ -159,13 +159,13 @@ secure identity bindings.
 
     - **Region:** East US 2
 
-    - ![](./media/image17.png)
+    ![](./media/image17.png)
 
-    - ![](./media/image18.png)
+    ![](./media/image18.png)
 
 5.  Agent is created successfully.
 
-![](./media/image19.png)
+    ![](./media/image19.png)
 
 # Task 3 - Verify the Agents in Microsoft Entra
 
@@ -176,21 +176,21 @@ Studio and Azure AI Foundry
 
 2.  Click on **Agent ID (Preview)**
 
-![](./media/image20.png)
+    ![](./media/image20.png)
 
 3.  On the **Overview** page we should be able to see the Agents in your
     tenant count.
 
-![](./media/image21.png)
+    ![](./media/image21.png)
 
 4.  Click on **All agent identities (Preview)**
 
-![](./media/image22.png)
+    ![](./media/image22.png)
 
 5.  In the list we should be able to see the Agents created in Microsoft
     Copilot Studio
 
-![](./media/image23.png)
+    ![](./media/image23.png)
 
 # Task 4 - Review Agent ID Properties
 
@@ -211,15 +211,15 @@ earlier task.
 
     - **Usage & insights**
 
-![](./media/image24.png)
+    ![](./media/image24.png)
 
-![](./media/image25.png)
+    ![](./media/image25.png)
 
 3.  From the left menu, select **Agent registry (Preview)**, we should
     be able to see 1 gent listed with details, where the Agent was
     created.
 
-![](./media/image26.png)
+    ![](./media/image26.png)
 
 # Task 5 – Disable AI Agent identity 
 
@@ -229,11 +229,11 @@ earlier task.
     ID – **Agent (Microsoft Copilot Studio)**created in Task 1, then
     click on **Disable** button.
 
-![](./media/image27.png)
+    ![](./media/image27.png)
 
 3.  We can see that the Agent ID is disabled success fully
 
-![](./media/image28.png)
+    ![](./media/image28.png)
 
 # Summary
 
