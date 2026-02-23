@@ -81,22 +81,21 @@ automatically generate its corresponding Agent ID in Entra ID.
 8.  Copy and paste the below text to create an agent, then click on the
     right arrow
 
-
     # 
-        > ***Entra ID Security Posture Analyzer***
-        >
-        > ***Purpose: Helps evaluate and improve an organization's Entra security posture.***
-        >
-        > ***Capabilities:***
-        >
-        > ***Analyze passwordless readiness***
-        >
-        > ***Provide recommendations using Identity Secure Score***
-        >
-        > ***Detect weak configurations (e.g., global admin assignments)***
-        >
-        > ***Suggest Zero Trust identity controls***
-        >
+        Entra ID Security Posture Analyzer
+        
+        Purpose: Helps evaluate and improve an organization's Entra security posture.
+        
+        Capabilities:
+        
+        Analyze passwordless readiness
+        
+        Provide recommendations using Identity Secure Score
+        
+        Detect weak configurations (e.g., global admin assignments)
+        
+        Suggest Zero Trust identity controls
+        
     
     ![](./media/image6.png)
 
